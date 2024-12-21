@@ -1,12 +1,12 @@
 {
-  "name": "connection-of-frontend-to-backend",
+  "name": "backend",
   "version": "1.0.0",
   "main": "server.js",
-  "type": "module",
+  "type":"module",
   "scripts": {
     "start": "node server.js"
   },
-  "author": "Ali",
+  "author": "Muhammad Ali",
   "license": "ISC",
   "description": "",
   "dependencies": {
